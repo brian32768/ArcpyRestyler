@@ -122,6 +122,8 @@ if __name__ == "__main__":
     # You can put unit test code here
     # or you can set up this code to run standalone from command line
 
+    cc_gis = "https://arcgisweb.carteretcountync.gov/arcgis/rest/services/Feature_Services/Parceldata/MapServer"
+
     #s = arcpy_script()
     all_services    = "https://cc-gis.clatsop.co.clatsop.or.us/arcgis/rest/services"
     # for folder in folders:
